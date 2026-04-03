@@ -1,12 +1,12 @@
 
 
 #  README Uji Coba Aplikasi
-# Nama: Hanum Zaqiah Permatasari
-# NIM: 202210370311125
-# Kelas: Rekayasa Kebutuhan A
+
+**Nama: Hanum Zaqiah Permatasari
+**NIM: 202210370311125
+**Kelas: Rekayasa Kebutuhan A
 
 **Sistem Pelacakan Alumni**
-
 ---
 
 ##  1. Informasi Login (Uji Coba)
